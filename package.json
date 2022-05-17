@@ -1,5 +1,6 @@
 {
-  "name": "ecommerce",
+  "name": "phonix-store",
+  "author":"tazheeb",
   "version": "0.1.0",
   "private": true,
   "scripts": {
